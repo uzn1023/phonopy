@@ -1,0 +1,1 @@
+phonopy --qe -c BiVO4.in -t -p -s mesh.conf
